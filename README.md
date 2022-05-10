@@ -18,6 +18,6 @@ As tecnologias usadas foram:
 
 ## Preview :computer:
 
-Acesse a página: [**flex-blog**](https://aluracord-tho-te-ocean.vercel.app)
+Acesse a página: [**flex-blog**](https://mateus-sousa23.github.io/flexblog/)
 
 
