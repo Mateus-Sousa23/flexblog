@@ -20,8 +20,4 @@ As tecnologias usadas foram:
 
 Acesse a página: [**flex-blog**](https://aluracord-tho-te-ocean.vercel.app)
 
-<video width="320" height="240">
-    <source src="/img/FlexBlog.mp4" type="video/mp4">
-</video>
-
 
