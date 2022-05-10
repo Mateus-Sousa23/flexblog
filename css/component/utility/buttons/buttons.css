@@ -1,0 +1,23 @@
+.btn-preco-item a {
+    max-width: 300px;
+    display: block;
+    margin: 20px auto;
+    border: 4px solid;
+    color: #222222;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2.25em;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.btn-newsletter-for button{
+    flex: 1 1 200px;
+    font-size: 2.25em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0px;
+    cursor: pointer;
+    border: 0px;
+    padding: 15px 10px;
+}

@@ -1,0 +1,48 @@
+/* Sistema de espaçamento css */
+
+/* superinfo */
+.sp-superinfo {
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.sp-superinfo p, .superinfo a {
+    margin: 0 10px 10px 10px;
+}
+
+/* menu */
+.sp-menu {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+
+/* introdução */
+.sp-introducao {
+    margin: 0 auto;
+    padding: 60px 10px;
+}
+
+/* sobre */
+.sp-sobre {
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+/* produtos */
+.sp-produtos {
+    max-width: 960px;
+    margin: 60px auto;
+}
+.sp-preco {
+    padding: 60px;
+}
+
+/* qualidade */
+.sp-qualidade {
+    margin: 60px auto;
+}
+
+/* newletter */
+.sp-newsletter {
+    padding: 60px calc((100% - 960px) / 2);
+}

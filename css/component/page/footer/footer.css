@@ -1,0 +1,8 @@
+/* Footer */
+.footer {
+    display: flex;
+    justify-content: center;
+    font-size: 1.8em;
+    font-weight: bold;
+    padding: 60px 0;
+}

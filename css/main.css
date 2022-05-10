@@ -1,0 +1,44 @@
+/* -------------------------inicio-------------------- */
+/* import de nível 1 */
+
+/* reset */
+@import url('./component/global/reset.css');
+
+/* colors */
+@import url('./component/utility//colors/colors.css');
+
+/* typography */
+@import url('./component/utility/typography/typography.css');
+
+/* var */
+@import url('./component/global/var.css');
+
+/* design */
+@import url('./component/desing/space.css');
+
+/* ------------------------- Fim --------------------  */
+
+/* -------------------------inicio-------------------- */
+/* import nivel 2  */
+
+/* buttons */
+@import url('./component/utility/buttons/buttons.css');
+
+/* form */
+@import url('./component/utility/form/form.css');
+
+/* components */
+@import url('./component/utility/components/container.css');
+
+/* ------------------------- Fim --------------------  */
+
+/* -------------------------inicio-------------------- */
+/* import de nível 3 */
+
+/* menu */
+@import url('./component/page/header/header.css');
+
+/* footer */
+@import url('./component/page/footer/footer.css');
+
+/* ------------------------- Fim --------------------  */

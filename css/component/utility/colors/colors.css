@@ -1,0 +1,94 @@
+/* Superinfo */
+.superinfo-bg {
+    background-color: var(--b-2);
+}
+.superinfo-font {
+    color: var(--w-0);
+}
+.superinfo-font a {
+    color: var(--w-0);
+}
+
+/* Menu */
+.menu-bg {
+    background-color: var(--b-0)
+}
+.menu-font a{
+    color: var(--w-0)
+}
+.menu-f-hover {
+    color: var(--b-2);
+}
+
+/* Sobre */
+.sobre-border {
+    border-top: 2px solid var(--b-1);
+    border-bottom: 2px solid var(--b-1);
+}
+
+/* Produtos */
+.produtos-items-bg {
+    background-color: var(--w-1);
+}
+.produtos-items-f {
+    color: var(--gy-0)
+}
+.produtos-item-purple {
+    border-top: 8px solid var(--p-0);
+}
+.produtos-item-pink {
+    border-top: 8px solid var(--pk-0);
+}
+.produtos-item-blue {
+    border-top: 8px solid var(--b-1);
+}
+
+/* Preço */
+.preco-bg {
+    background-color: var(--w-1);
+}
+.preco-f-c p {
+    color: var(--gy-0);
+}
+.preco-list {
+    color: var(--gy-1)
+}
+
+/* Qualidade */
+.qualidade-item:nth-child(3n+1) h2::before {
+    background: var(--pk-0);
+}
+
+.qualidade-item:nth-child(3n+2) h2::before {
+    background: var(--pk-0);
+}
+
+.qualidade-item:nth-child(3n+3) h2::before {
+    background: var(--b-1);
+}
+
+
+/* Newsletter */
+.newsletter-bg {
+    background-color: var(--w-1);
+}
+.newsletter-c-h1 {
+    color: var(--gy-0)
+}
+.newletter-c-p {
+    color: var(--gy-1)
+}
+.newletter-btn-bg button{
+    background: var(--b-0);
+}
+.newletter-btn-c button {
+    color: var(--w-0);
+}
+
+/* Footer */
+.footer-bg {
+    background-color: var(--b-0);
+}
+.footer-f-c {
+    color: var(--w-0);
+}

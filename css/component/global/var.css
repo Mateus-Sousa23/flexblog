@@ -1,0 +1,27 @@
+/* Variáveis css */
+:root {
+    /* blue */
+    --b-0: #2c70ff;
+    --b-1: #66d9eb;
+    --b-2: #122ab2;
+    --b-3: #122ab2;
+    --b-4: #0000ff ;
+
+    /* pink */
+    --pk-0: #f9265e;
+
+    /* purple */
+    --p-0: #ae81ff;
+
+    /* gray */
+    --gy-0: #a4a4a4;
+    --gy-1: #7c7c7c;
+    --gy-2:#222222;
+    
+    /* white */
+    --w-0: #fff;
+    --w-1: #f7f7f7;
+
+    /* black */
+    --bl-0: #000;
+}
